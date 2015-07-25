@@ -22,7 +22,7 @@ this package.
 
  1. Clone this repository.
 
-        git clone https://github.com/mintplant/vim-literate-coffeescript.git
+        git clone https://github.com/robertdfrench/vim-literate-coffeescript.git
 
  2. Copy all the vim-specific files into your ~/.vim folder.
 
@@ -42,7 +42,7 @@ this package.
 
  3. Clone this repository.
 
-         git clone https://github.com/mintplant/vim-literate-coffeescript.git
+         git clone https://github.com/robertdfrench/vim-literate-coffeescript.git
 
 ### Updating
 
